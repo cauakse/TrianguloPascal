@@ -31,7 +31,7 @@ This is a Java-based simulator for the creation and validation of Pascal's Trian
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/pascal-triangle-simulator.git
+git clone https://github.com/cauakse/TrianguloPascal.git
 cd pascal-triangle-simulator
 ```
 
@@ -61,7 +61,7 @@ Example of a 4-line triangle in the file:
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed by RUDNAP
 
 ---
 
